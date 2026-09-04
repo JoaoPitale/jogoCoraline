@@ -9,7 +9,7 @@ Jogo 2D/3D de fuga e desvio de obstáculos inspirado no filme *Coraline*, no qua
 
 ## Sumário da Wiki
 1. Visão geral — conceito do jogo, gênero e contextualização da narrativa
-2. Esboços de cena — Menu Inicial, Fase Corredor, Créditos
+2. Descrição de cena — Menu Inicial, Fase Corredor, Créditos
 3. Protótipo visual das cenas — Menu Inicial, Gameplay 1, Gameplay 2, Créditos, Tela de pausa
 4. Mecânica de vidas — regras, invencibilidade temporária, condição de derrota
 5. Conceitos aplicados
